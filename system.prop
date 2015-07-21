@@ -11,3 +11,8 @@ ro.telephony.get_imsi_from_sim=true
 ro.ril.force_eri_from_xml=true
 
 telephony.lteOnCdmaDevice=1
+#
+# OTA Updates
+ro.ota.romname=Pac-Man Rom LP 5.1.X
+ro.ota.version=201505XX
+ro.ota.manifest=https://romhut.com/roms/pac-man-rom-lp-5-1-x/ota.xml
